@@ -1,0 +1,12 @@
+footer:
+    legal: "Privacy Policy"
+    social:      
+      - url: https://www.linkedin.com/in/amirtha-varshini-58420baa/
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/amirtha255
+        icon: "fab fa-github"
+      - url: https://www.instagram.com/amirtha_255/
+        icon: "fab fa-instagram"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}

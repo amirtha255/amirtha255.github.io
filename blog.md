@@ -1,7 +1,7 @@
 ---
 layout: post
 title: blog
-background: "/assets/img/blog.png"
+background: "/assets/img/blog2.png"
 ---
 <h1>Latest Posts</h1>
 
