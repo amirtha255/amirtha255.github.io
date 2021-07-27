@@ -1,40 +1,16 @@
 ---
 layout: post
-title: home
-background: "/assets/img/amirthaa.png"
+title: 
+background: "/assets/img/home.png"
+description: My home page
 ---
 
+<hr width="60%">
 
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
-</div>
+<blockquote>
+<p>Borrowing Michael Scott's wise words, when I decided I wanted to create a website for myself "I knew exactly what to do. But in a much more real sense, I had no idea what to do." But "somehow I manage(d)" and here we are .</p>
+</blockquote>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+<hr width="60%">
 
-**PERSONAL INFORMATION WE COLLECT**
-
-{% if site.analytics.google %}
-
-Automatically Collected (Google Analytics):
-
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
-
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
-
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
-
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
-
-{% else %}
-
-We do not collect any data about you or use any cookies.
-
-{% endif %}
-
-**CHANGES**
-
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
-
-**CONTACT US**
-
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+<p>Hello this is ASAV </p>
