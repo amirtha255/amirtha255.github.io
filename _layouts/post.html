@@ -1,57 +1,83 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+
+
+{% include base.html %}
+{% include head.html %}
 {% include nav.html %}
-<!-- Page Header -->
-{% if page.background %}
 
-<!--
-<div id="backgroundimage" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')"></div> 
--->
 
-  
-  <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-    <div class="container">
-      <div class="intro-text">
-    {%- if site.data.sitetext.header.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
-    {%- endif -%}
-    {%- if site.data.sitetext.header.text -%}
-        <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
-    {%- endif -%}
-    {%- if site.data.sitetext.header.button -%}
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
-    {%- endif -%}
-      </div>
-    </div>
-  </header>
+  <body id="page-top" style="min-height: 400px; margin-bottom: 100px; padding-top: 70px;" >
 
-{% endif %}
+        <!-- Page Header -->
+            {% if page.background %}
 
-{% if page.title %}
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-          <p>
-          <h4>{{ page.title }}</h4>
-          </p>
-          {% if page.date %}
-          <p>{{ page.date | date_to_string }}  {{ page.author }}</p>
-          {% endif %}
-      </div>
-    </div>
-  </div>
+             
+              <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+                <div class="container">
+                  <div class="intro-text">
+                {%- if site.data.sitetext.header.title -%}
+                    <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
+                {%- endif -%}
+                {%- if site.data.sitetext.header.text -%}
+                    <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
+                {%- endif -%}
+                {%- if site.data.sitetext.header.button -%}
+                    <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
+                {%- endif -%}
+                  </div>
+                </div>
+              </header>
 
-{% endif %}
+            {% endif %}
 
 
 
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+            {% if page.title %}
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto">
+                      <p>
+                      <h4>{{ page.title }}</h4>
+                      </p>
+                      {% if page.date %}
+                      <p>{{ page.date | date_to_string }}  {{ page.author }}</p>
+                      {% endif %}
+                  </div>
+                </div>
+              </div>
 
-        {{ content }}
+            {% endif %}
 
-      </div>
-    </div>
-  </div>
+
+
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-8 col-md-10 mx-auto" style="">
+
+                    {{ content }}
+
+                  </div>
+                </div>
+              </div>
+
+    {% include footer.html %}
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="{{base}}/assets/js/jquery.min.js"></script>
+    <script src="{{base}}/assets/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="{{base}}/assets/js/jquery.easing.min.js"></script>
+
+    <!-- Contact form JavaScript -->
+    <script src="{{base}}/assets/js/jqBootstrapValidation.js"></script>
+    <script src="{{base}}/assets/js/contact_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="{{base}}/assets/js/agency.min.js"></script>
+
+  </body>
+</html>
+
+

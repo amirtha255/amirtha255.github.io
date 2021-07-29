@@ -1,9 +1,12 @@
 ---
 layout: post
 title: 
-background: "/assets/img/musings.png"
+background: 
 ---
 
+<br>
+
+<img src= "/assets/img/musings.png" class="img-fluid"/>
 <ul>
   {% for post in site.posts %}
   	{% if post.categories contains 'musings' %}

@@ -5,13 +5,6 @@ background:
 description: My home page
 ---
 
-<!--
-<hr width="60%">
-<blockquote style="text-align: center;">
-    <p></p>
-</blockquote>
-<hr width="60%">
--->
 
 <br>
 

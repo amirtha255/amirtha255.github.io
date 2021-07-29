@@ -4,6 +4,9 @@ title:
 background: 
 ---
 
+<br>
+<p>
+
 <img src="/assets/img/blog.png" class="img-fluid"/>
 
 
@@ -29,3 +32,4 @@ background:
 	{% endif %}   
   {% endfor %}
 </ul>
+</p>
