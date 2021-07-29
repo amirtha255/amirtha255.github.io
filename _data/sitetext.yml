@@ -9,6 +9,8 @@ footer:
         icon: "fab fa-instagram"
       - url: https://medium.com/@amirtha255
         icon: "fab fa-medium"
+      #- url: amirtha255@gmail.com
+      #  icon:  "fa fa-envelope"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

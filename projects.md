@@ -1,8 +1,11 @@
 ---
 layout: post
 title: 
-background: "/assets/img/projects.png"
+background:
 ---
+
+<img src= "/assets/img/projects.png" class="img-fluid"/>
+
 
 <hr width="60%">
 <blockquote style="text-align: center;">
@@ -10,18 +13,20 @@ background: "/assets/img/projects.png"
 </blockquote>
 <hr width="60%">
 
+<p>
+
 <h2> Projects in Computer vision </h2>
 <ul>
 
 <li>
 <p>
-On an attempt to improve object detection of an autonomous vehicle in low light, I worked on a side-project for Low-cost Intelligent vision in Automotives (LIVA) which was later funded for QBuzz conference 2019 as the top 6 finalists.<br> 
+In an attempt to improve object detection of an autonomous vehicle in low light, I worked on a side-project for Low-cost Intelligent vision in Automotives (LIVA) which was later funded for QBuzz conference 2019 as the top 6 finalists.<br> 
 </p>
 </li>
 
 <li>
 <p>
-During my undergrad, I developed a vision-based gesture controlled robotic arm for my final thesis which won the best final year award of my institute , NIT Trichy ( Ranked #9 in India by NIRF). I have published a paper on the same as a first author in the conference  Frontiers of Artificial Intelligence and Machine Learning- https://dl.acm.org/doi/10.1145/3459104.3459142
+During my undergrad, I developed a vision-based gesture-controlled robotic arm for my final thesis which won the best final year award of my institute, NIT Trichy ( Ranked #9 in India by NIRF). I have published a paper on the same as a first author in the conference  Frontiers of Artificial Intelligence and Machine Learning- https://dl.acm.org/doi/10.1145/3459104.3459142
 <br>
 </p>
 </li>
@@ -30,7 +35,7 @@ During my undergrad, I developed a vision-based gesture controlled robotic arm f
 
 <h2> Projects in Machine Learning </h2>
 
-<p> I was enrolled as a remote summer student in Carnegie Melon University in 2020 and completed the course 18-661: Intro to ML for Engineers.
+<p> I was enrolled as a remote summer student at Carnegie Melon University in 2020 and completed the course 18-661: Intro to ML for Engineers.
 I enjoyed doing the below bonus coursework projects. 
 
 <ul>
@@ -43,8 +48,9 @@ Modeled and analyzed the growth rate of COVID in different states of the USA. </
 
 <li>  Built a custom neural network from scratch using Pytorch. To improve classification accuracy, experimented with Data augmentation, dropout, Xavier weights initialization. </li> 
 
-
-
+</ul>
+</p>
+</p>
 <!--
 <ul>
   {% for post in site.posts %}

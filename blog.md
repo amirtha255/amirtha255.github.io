@@ -1,8 +1,11 @@
 ---
 layout: post
 title: 
-background: "/assets/img/blog.png"
+background: 
 ---
+
+<img src="/assets/img/blog.png" class="img-fluid"/>
+
 
 <hr width="60%">
 <blockquote style="text-align: center;">
