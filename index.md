@@ -23,7 +23,7 @@ description: My home page
 
 <p>
 
-I love to experiment with new technology and applying them to real-world problems. I believe in a inclusive world developed responsibly with tech and have contributed to organizations - QWomen India chapter, AIESEC, Engineers without Borders, and National Service Scheme, India.
+I love to experiment with new technology and applying them to real-world problems. I believe in a inclusive world developed responsibly with tech.
 
 </p>
 
