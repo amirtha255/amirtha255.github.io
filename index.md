@@ -17,7 +17,7 @@ description: My home page
 <hr width="60%">
 
 <p>
-	I am Amirtha Varshini, an incoming Masters in Computer Science (ML specialization) student at Georgia Tech, this fall 2021. I am interested in the fields of Machine Learning and Computer Vision. Previously, I wrked in Qualcomm's Automotive Team for three years, where I developed software on QNX real-time OS for ADAS chipsets (Autonomous Driver Assistance Systems).
+	I am Amirtha Varshini, an incoming Masters in Computer Science (ML specialization) student at Georgia Tech, this fall 2021. I am interested in the fields of Machine Learning and Computer Vision. Previously, I worked in Qualcomm's Automotive Team for three years, where I developed software on QNX real-time OS for ADAS chipsets (Autonomous Driver Assistance Systems).
 <br>
 </p>
 
