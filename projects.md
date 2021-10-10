@@ -23,6 +23,17 @@ background:
 
 <li>
 <p>
+I'm currently working on Computer Vision Tools for Non-verbal Communication in Interviews
+This research is advised by Prof. James Rehg in Georgia Tech . My responsibilities include 
+<br>
+Training Deep Neural Network (DNN) model OpenPose on Caffe for keypoint detection of face and body.<br>
+Evaluating and estimating non-verbal communications (NVC) such as pose and nodding in interview scenarios
+</p>
+</li>
+
+
+<li>
+<p>
 In an attempt to improve object detection of an autonomous vehicle in low light, I worked on a side-project for Low-cost Intelligent vision in Automotives (LIVA) which was later funded for QBuzz conference 2019 as the top 6 finalists.<br> 
 </p>
 </li>
@@ -34,7 +45,22 @@ During my undergrad, I developed a vision-based gesture-controlled robotic arm f
 </p>
 </li>
 
+
+
+
 </ul>
+
+
+<h2> Projects in Natural Language Processing</h2>
+<ul>
+	<li>
+		Symantic Similarity and Toxicity Detection of Questions in Quora - Course project for 7641 Machine Learning. This involves using Natural Language Programming methods Tf-Idf Vectorizer, Word2Vec on Quora Question-Pairs dataset and perform machine learning to determine the intent similarity and toxicity of questions. Experimenting with state-of-the-art models LSTM, BERT, GRU .
+	</li>
+
+
+</ul>
+
+
 
 <h2> Projects in Machine Learning </h2>
 
