@@ -40,7 +40,8 @@ In an attempt to improve object detection of an autonomous vehicle in low light,
 
 <li>
 <p>
-During my undergrad, I developed a vision-based gesture-controlled robotic arm for my final thesis which won the best final year award of my institute, NIT Trichy ( Ranked #9 in India by NIRF). I have published a paper on the same as a first author in the conference  Frontiers of Artificial Intelligence and Machine Learning- https://dl.acm.org/doi/10.1145/3459104.3459142
+During my undergrad, I developed a vision-based gesture-controlled robotic arm for my final thesis which won the best final year award of my institute, NIT Trichy ( Ranked #9 in India by NIRF). I have published a paper on the same as a first author in the conference - Frontiers of Artificial Intelligence and Machine Learning, 2020- <href>https://dl.acm.org/doi/10.1145/3459104.3459142
+</href>
 <br>
 </p>
 </li>
