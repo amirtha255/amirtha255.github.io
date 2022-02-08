@@ -17,7 +17,7 @@ description: My home page
 <hr width="60%">
 
 <p>
-	I am Amirtha Varshini, a first year Masters in Computer Science (ML specialization) student at Georgia Tech. I am interested in the fields of Machine Learning and Computer Vision. I am a Graduate Teaching Assistant of the course  CS 7470 - Mobile & Ubiquitous Computing, taught by Prof. Thad Starner. Previously, I worked in Qualcomm's Automotive Team for three years, where I developed software on QNX real-time OS for ADAS chipsets (Autonomous Driver Assistance Systems).
+	I am Amirtha Varshini, a first year Masters in Computer Science (ML specialization) student at Georgia Tech. I am interested in the fields of Machine Learning and Computer Vision. I am a Graduate Teaching Assistant of CS 6603 - Artificial Intelligence, Ethics and Society. Previously, I was a Teaching Assistant of the course  CS 7470 - Mobile & Ubiquitous Computing, taught by Prof. Thad Starner. Prior to my master's, I worked in Qualcomm's Automotive Team for three years, where I developed software on QNX real-time OS for ADAS chipsets (Autonomous Driver Assistance Systems).
 <br>
 </p>
 
