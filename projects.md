@@ -18,6 +18,14 @@ background:
 
 <p>
 
+<h2> Projects in Deep Reinforcement Learning </h2>
+<ul>
+<!-- video and paper -->
+<li>
+<p>
+</li>
+</ul>
+	
 <h2> Projects in Computer vision </h2>
 <ul>
 
@@ -36,6 +44,13 @@ Evaluating and estimating non-verbal communications (NVC) such as pose and noddi
 </p>
 </li>
 
+
+<li>
+<p>
+	
+</p>
+</li>
+ https://devpost.com/software/trashnotbot![image](https://user-images.githubusercontent.com/10433985/168064093-d44859f1-392d-430f-9ad7-db748f1227e2.png)
 
 <li>
 <p>
