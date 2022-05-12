@@ -20,9 +20,13 @@ background:
 
 <h2> Projects in Deep Reinforcement Learning </h2>
 <ul>
-<!-- video and paper -->
+
 <li>
 <p>
+	· Incorporated experience replay with best performing model-free RL algorithm Truncated Mixture of Continuous
+Distributional Quantile Critics (TQC) for navigation of model car in autonomous driving simulator Donkeycar.
+· Trained a Variational Autoencoder to compress input into a latent space representation and improves rewards.
+· Generated a semantic segmentation mask using another pretrained autoencoder.
 </li>
 </ul>
 	
@@ -47,10 +51,10 @@ Evaluating and estimating non-verbal communications (NVC) such as pose and noddi
 
 <li>
 <p>
-	
+ Mask R-CNN to perform instance segmentation to analyze the image obtained from the camera mounted on the robot to identify the pixels in the image that contain trash.
+ https://devpost.com/software/trashnotbot
 </p>
 </li>
- https://devpost.com/software/trashnotbot![image](https://user-images.githubusercontent.com/10433985/168064093-d44859f1-392d-430f-9ad7-db748f1227e2.png)
 
 <li>
 <p>
@@ -82,6 +86,8 @@ During my undergrad, I developed a vision-based gesture-controlled robotic arm f
 			<li>
 		Natural Language Programming methods Tf-Idf Vectorizer, Word2Vec on Quora Question-Pairs dataset and perform machine learning to determine the intent similarity and toxicity of questions. </li>
 			<!--<li> Experimenting with state-of-the-art models LSTM, BERT, GRU . </li> -->
+			https://www.youtube.com/watch?v=H25UyzI6bf0
+			https://shyamkrishna19.github.io/ml-7641-project/
 		</ul>
 	</li>
 
