@@ -16,6 +16,18 @@ background:
 </blockquote>
 <hr width="60%">
 
+<h2> Projects in Deep Learning</h2>
+<ul>
+	<li>
+	Leveraging Object movement predictions for Interactive Robot Assistance 		
+		<ul>
+			<li> This is research work Advised by Prof. Sonia Chernova. Here I  aim to develop an explainable deep generative graph neural network model
+(GNN) that performs spatio-temporal object tracking and models the future movement of objects in an environment.</li>
+		</ul>
+	</li>
+
+
+</ul>
 	
 <h2> Projects in Computer vision </h2>
 <ul>
@@ -45,9 +57,7 @@ Evaluating and estimating non-verbal communications (NVC) such as pose and noddi
 
 <li>
 <p>
-In an attempt to improve object detection of an autonomous vehicle in low light, I worked on a side-project for Low-cost Intelligent vision in Automotives (LIVA).
-
-This was later funded for QBuzz conference 2019 as the top 6 finalists.<br> 
+In an attempt to improve object detection of an autonomous vehicle in low light, I worked on a side-project for Low-cost Intelligent vision in Automotives (LIVA). This was later funded for QBuzz conference 2019 as the top 6 finalists.<br> 
 </p>
 </li>
 
