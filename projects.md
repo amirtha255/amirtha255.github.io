@@ -27,8 +27,7 @@ background:
 Distributional Quantile Critics (TQC) for navigation of model car in autonomous driving simulator Donkeycar.
 · Trained a Variational Autoencoder to compress input into a latent space representation and improves rewards.
 · Generated a semantic segmentation mask using another pretrained autoencoder.
-</li>
-</ul>
+
 	
 <h2> Projects in Computer vision </h2>
 <ul>
