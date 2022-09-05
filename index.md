@@ -23,10 +23,5 @@ description: My home page
 
 <p>
 
-I love to experiment with new technology and applying them to real-world problems. I believe in a inclusive world developed responsibly with tech. 
-
-</p>
-
-<p>
-	I like to write and have published blogs in Hackernoon, The Startup, Towards Data Science, and Noteworthy Publications. I enjoy speaking impromptu on topics , a hobby developed as a part of my Toastmasters journey.
+I love to experiment with new technology and applying them to real-world problems. I believe in a inclusive world developed responsibly with tech. I like to write and have published blogs in Hackernoon, The Startup, Towards Data Science, and Noteworthy Publications. I enjoy speaking impromptu on topics , a hobby developed as a part of my Toastmasters journey.
  </p>
