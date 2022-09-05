@@ -16,18 +16,6 @@ background:
 </blockquote>
 <hr width="60%">
 
-<p>
-
-<h2> Projects in Deep Reinforcement Learning </h2>
-<ul>
-
-<li>
-<p>
-	· Incorporated experience replay with best performing model-free RL algorithm Truncated Mixture of Continuous
-Distributional Quantile Critics (TQC) for navigation of model car in autonomous driving simulator Donkeycar.
-· Trained a Variational Autoencoder to compress input into a latent space representation and improves rewards.
-· Generated a semantic segmentation mask using another pretrained autoencoder.
-
 	
 <h2> Projects in Computer vision </h2>
 <ul>
