@@ -121,8 +121,8 @@ Modeled and analyzed the growth rate of COVID in different states of the USA. </
 
 </ul>
 </p>
-</p>
-<!--
+
+<!---
 <ul>
   {% for post in site.posts %}
   	{% if post.categories contains 'project' %}
