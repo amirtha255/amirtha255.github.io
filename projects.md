@@ -27,6 +27,17 @@ background:
 	</li>
 
 
+	<li>
+	Deep Reinforcement Learning (RL) based autonomous driving  		
+		<ul>
+			<li> Trained a model-free RL algorithm TQC (Truncated Quantile Critics) and increased rewards by 17% with experience
+replay for navigation in self-driving simulator Donkeycar, outperforming benchmark algorithms DDPG, SAC, and PPO.
+			</li>
+			<li> Trained a Variational Autoencoder to compress input into a latent space representation and improved rewards by 42%.
+			</li>
+			<li> Generated a semantic segmentation mask using a pretrained autoencoder to visualize the model for interpretability</li>
+		</ul>
+	</li>
 </ul>
 	
 <h2> Projects in Computer vision </h2>
@@ -34,14 +45,14 @@ background:
 
 <li>
 <p>
-I'm currently working on Computer Vision Tools for Non-verbal Communication in Interviews. This research is advised by Prof. James Rehg in Georgia Tech . My responsibilities include 
+I worked on developing Computer Vision Tools for Non-verbal Communication in Interviews. This research was advised by Prof. James Rehg in Georgia Tech .
 <ul>
-<li>
-Training Deep Neural Network (DNN) model OpenPose on Caffe for keypoint detection of face and body.
+<li> Trained Hidden Markov Models (HMM) and K Nearest Neighbours (KNN)
+models for head gesture detection in interviews using OpenFace keypoints generated on the MIT Interview dataset.
 </li>
-<li>
-Evaluating and estimating non-verbal communications (NVC) such as pose and nodding in interview scenarios
-</li>
+<li>  Experimented with Multi CONV-LSTM models for head gesture detection using AMI Meeting corpus.
+
+	</li>
 </ul>
 
 </p>
