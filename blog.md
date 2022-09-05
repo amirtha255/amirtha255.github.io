@@ -12,8 +12,9 @@ background:
 
 <hr width="60%">
 <blockquote style="text-align: center;">
-    <p>"It is important to draw wisdom from many different places. If you take it from only one place, it becomes rigid and stale." - General Iroh ATLA
+   <!-- <p>"It is important to draw wisdom from many different places. If you take it from only one place, it becomes rigid and stale." - General Iroh ATLA
 </p>
+-->
 </blockquote>
 <hr width="60%">
 
