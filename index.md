@@ -18,7 +18,6 @@ description: My home page
 
 <p>
 	I am a second-year Masters in Computer Science (ML specialization) student at Georgia Tech. I am interested in the fields of Software development, Machine Learning, and Computer Vision and am actively looking for full-time SDE / ML Engineer opportunities starting May 2023. I am also interested in the areas of graph neural networks and explainability in AI, which is my active research focus. I interned in Amazon Robotics working on Computer vision and Augmented Reality. Previously, I worked in Qualcomm's Automotive Team for three years, where I developed software on QNX real-time OS for ADAS (Autonomous Driver Assistance Systems) chipsets. 
-I love to experiment with new technology and apply them to real-world problems, and believe in an inclusive world developed responsibly with tech.
 <br>
 </p>
 
