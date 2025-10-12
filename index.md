@@ -1,3 +1,11 @@
+---
+layout: post
+title: 
+background: 
+description: My home page
+---
+
+
 <br>
 
 <img src="/assets/img/home_page.png" class="img-fluid"/>
