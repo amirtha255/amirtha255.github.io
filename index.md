@@ -15,17 +15,28 @@ description: My home page
     <p></p>
 </blockquote>
 <hr width="60%">
-
 <p>
-	I am a machine learning scientist at Montai Therapeutics, where I am part of a pioneering team that uses AI to discover and develop novel small molecule drugs for chronic diseases. I have a master's degree in computer science from Georgia Institute of Technology, with a focus on machine learning and artificial intelligence.
-<br>
+I am a <b>Machine Learning Scientist at Montai Therapeutics (Flagship Pioneering)</b>, where I develop interpretable generative models to accelerate the discovery of novel small-molecule therapeutics for chronic diseases. My work bridges <b>machine learning research and drug discovery</b>, with a focus on <b>model interpretability, generative flows, and actionable insights for medicinal chemistry</b>.
 </p>
 
 <p>
-	I graduated with a Masters in Computer Science (ML specialization) at Georgia Tech. As a graduate student researcher at the Robot Autonomy and Interactive Learning (RAIL) lab, I developed explainability methods for a dynamic and generative graph neural network (GNN) that performs spatio-temporal object tracking and models the future movement of objects in a home environment. I was also a graduate teaching assistant for the course CS 6603 - AI, Ethics and Society, where I guide students with coding assignments and discussions on topics such as statistics, ethics, and fairness in AIs. I have also worked on various research projects in the fields of deep reinforcement learning and computer vision.  I interned in Amazon Robotics working on Computer vision and Augmented Reality. Previously, I worked in Qualcomm's Automotive Team for three years, where I developed software on QNX real-time OS for ADAS (Autonomous Driver Assistance Systems) chipsets. 
-<br>
+I hold a <b>Master’s in Computer Science (Machine Learning specialization)</b> from <b>Georgia Institute of Technology</b>, where I conducted research in the <b>Robot Autonomy and Interactive Learning (RAIL) Lab</b>. There, I built <b>explainability methods for dynamic graph neural networks (GNNs)</b> that perform spatio-temporal object tracking and prediction in home environments. <br>
+I also served as a teaching assistant for <i>CS 6603: AI, Ethics, and Society</i>, leading student discussions on fairness, bias, and responsible AI.
 </p>
 
 <p>
-I love to experiment with new technology and applying them to real-world problems. I believe in a inclusive world developed responsibly with tech. I like to write and have published blogs in Hackernoon, The Startup, Towards Data Science, and Noteworthy Publications. I enjoy speaking impromptu on topics , a hobby developed as a part of my Toastmasters journey.
- </p>
+My experience spans <b>industry and research</b>: <br>
+– At <b>Amazon Robotics</b>, I worked on computer vision and augmented reality for robotic perception. <br>
+– At <b>Qualcomm</b>, I developed real-time software for <b>autonomous driver assistance systems (ADAS)</b> chipsets on QNX. <br>
+– Across projects, I’ve explored deep reinforcement learning, generative modeling, and interpretability techniques.
+</p>
+
+<p>
+Beyond research, I enjoy <b>writing and science communication</b>—my articles have appeared in <i>Hackernoon</i>, <i>The Startup</i>, <i>Towards Data Science</i>, and <i>Noteworthy</i>. <br>
+I’m also passionate about <b>public speaking and impromptu expression</b>, a skill I honed through <b>Toastmasters</b>.
+</p>
+
+<p>
+At the core, I’m driven by the belief that <b>AI, when developed responsibly, can help build a healthier, more inclusive world</b>.
+</p>
+
