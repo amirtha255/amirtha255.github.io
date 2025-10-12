@@ -1,0 +1,37 @@
+/* Hikes post styles */
+.hikeshot {
+  max-width: 720px;
+  margin: 12px auto 18px;
+  text-align: center;
+}
+.hikeshot img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.hikeshot figcaption {
+  font-size: 0.95rem;
+  color: #666;
+  margin-top: 6px;
+}
+
+.hikegrid {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 920px;
+  margin: 8px auto 18px;
+}
+.hikegrid .hikeshot {
+  flex: 1 1 420px;
+  max-width: 460px;
+}
+
+hr.section-divider {
+  max-width: 60%;
+  margin: 24px auto;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
