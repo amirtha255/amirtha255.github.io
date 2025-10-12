@@ -3,19 +3,13 @@ footer:
   social:      
     - url: https://www.linkedin.com/in/amirtha-varshini-a-s-58420baa/
       icon: "fab fa-linkedin-in"
+      title: "LinkedIn"
     - url: https://github.com/amirtha255
       icon: "fab fa-github"
-      title: "Personal GitHub"
-    - url: https://github.com/amirtha-montai
-      icon: "fab fa-github"
-      title: "Work GitHub"
+      title: "GitHub"
     - url: https://scholar.google.com/citations?user=Gq-EFRQAAAAJ&hl=en
       icon: "fas fa-graduation-cap"
       title: "Google Scholar"
-    - url: https://openreview.net/profile?id=%7EAmirtha_Varshini_Anbuchezhiyan_Sindhanai1
-      icon: "fas fa-book"
-      title: "OpenReview"
     - url: https://medium.com/@amirtha255
       icon: "fab fa-medium"
-    - url: https://www.instagram.com/amirtha_255/
-      icon: "fab fa-instagram"
+      title: "Medium"
